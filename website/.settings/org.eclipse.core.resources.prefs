@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/nqb/controller/HandleController.java=UTF-8
+encoding//src/main/java/com/nqb/controller/MyController.java=UTF-8
+encoding//src/main/java/com/nqb/convert/ConvertData.java=UTF-8
+encoding//src/main/java/com/nqb/dao/OrderDao.java=UTF-8
+encoding//src/main/java/com/nqb/dao/OrderDetailDao.java=UTF-8
+encoding//src/main/java/com/nqb/dao/ProductDao.java=UTF-8
+encoding//src/main/java/com/nqb/dao/ProductSizeDao.java=UTF-8
+encoding//src/main/java/com/nqb/dao/UserDao.java=UTF-8
+encoding//src/main/java/com/nqb/model/Category.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/header.jsp=UTF-8
